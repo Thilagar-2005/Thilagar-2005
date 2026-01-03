@@ -26,6 +26,7 @@
 
 ###
 
+<h1>
 <div align="left">
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
@@ -37,8 +38,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/>
   
 </div>
-
-###
+</h1>
 ###
 
 ### </> CODING STATS: On Leetcode
